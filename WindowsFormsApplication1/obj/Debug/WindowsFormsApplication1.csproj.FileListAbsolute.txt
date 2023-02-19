@@ -1,0 +1,96 @@
+c:\users\user\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\user\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\user\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\user\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\user\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\user\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\user\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+d:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+d:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+d:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+d:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+d:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+d:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+d:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+d:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+d:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\Study4God\3 ССПИ\КП_ССПИ_ГОТОВАЯ\Вариативная часть ССПИ\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\USER\Desktop\Study4God\3 ССПИ\КП_ССПИ_ГОТОВАЯ\Вариативная часть ССПИ\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\USER\Desktop\Study4God\3 ССПИ\КП_ССПИ_ГОТОВАЯ\Вариативная часть ССПИ\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\USER\Desktop\Study4God\3 ССПИ\КП_ССПИ_ГОТОВАЯ\Вариативная часть ССПИ\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Study4God\3 ССПИ\КП_ССПИ_ГОТОВАЯ\Вариативная часть ССПИ\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\Study4God\3 ССПИ\КП_ССПИ_ГОТОВАЯ\Вариативная часть ССПИ\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\USER\Desktop\Study4God\3 ССПИ\КП_ССПИ_ГОТОВАЯ\Вариативная часть ССПИ\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\USER\Desktop\Study4God\3 ССПИ\КП_ССПИ_ГОТОВАЯ\Вариативная часть ССПИ\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Study4God\3 ССПИ\КП_ССПИ_ГОТОВАЯ\Вариативная часть ССПИ\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Study4God\3 ССПИ\КП_ССПИ_ГОТОВАЯ\Вариативная часть ССПИ\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\USER\Desktop\Study4God\3 ССПИ\КП_ССПИ_ГОТОВАЯ\Вариативная часть ССПИ\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+d:\tmp\WindowsFormsApplication1_new\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+d:\tmp\WindowsFormsApplication1_new\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+d:\tmp\WindowsFormsApplication1_new\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+d:\tmp\WindowsFormsApplication1_new\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+d:\tmp\WindowsFormsApplication1_new\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+d:\tmp\WindowsFormsApplication1_new\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+d:\tmp\WindowsFormsApplication1_new\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+d:\tmp\WindowsFormsApplication1_new\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+d:\tmp\WindowsFormsApplication1_new\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\WindowsFormsApplication1_xyeta_ebanya\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\USER\Desktop\WindowsFormsApplication1_xyeta_ebanya\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\USER\Desktop\WindowsFormsApplication1_xyeta_ebanya\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\USER\Desktop\WindowsFormsApplication1_xyeta_ebanya\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\WindowsFormsApplication1_xyeta_ebanya\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\WindowsFormsApplication1_xyeta_ebanya\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\USER\Desktop\WindowsFormsApplication1_xyeta_ebanya\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\USER\Desktop\WindowsFormsApplication1_xyeta_ebanya\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\WindowsFormsApplication1_xyeta_ebanya\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\WindowsFormsApplication1_xyeta_ebanya\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\USER\Desktop\WindowsFormsApplication1_xyeta_ebanya\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+d:\tmp\WindowsFormsApplication1_xyeta_ebanya\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+d:\tmp\WindowsFormsApplication1_xyeta_ebanya\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+d:\tmp\WindowsFormsApplication1_xyeta_ebanya\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+d:\tmp\WindowsFormsApplication1_xyeta_ebanya\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+d:\tmp\WindowsFormsApplication1_xyeta_ebanya\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+d:\tmp\WindowsFormsApplication1_xyeta_ebanya\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+d:\tmp\WindowsFormsApplication1_xyeta_ebanya\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+d:\tmp\WindowsFormsApplication1_xyeta_ebanya\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+d:\tmp\WindowsFormsApplication1_xyeta_ebanya\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\WindowsFormsApplication1_xyeta_ebanya\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Author.resources
+C:\Users\USER\Desktop\WindowsFormsApplication1_xyeta_ebanya\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Resurses.Resource1.resources
+C:\Users\USER\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Author.resources
+C:\Users\USER\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\USER\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\USER\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Resurses.Resource1.resources
+C:\Users\USER\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\USER\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\USER\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\USER\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\USER\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Иванников КП ССПИ\Программа\ПО GSE Handler\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.AssemblyReference.cache
+E:\Иванников КП ССПИ\Программа\ПО GSE Handler\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Author.resources
+E:\Иванников КП ССПИ\Программа\ПО GSE Handler\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\Иванников КП ССПИ\Программа\ПО GSE Handler\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Иванников КП ССПИ\Программа\ПО GSE Handler\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Resurses.Resource1.resources
+E:\Иванников КП ССПИ\Программа\ПО GSE Handler\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+E:\Иванников КП ССПИ\Программа\ПО GSE Handler\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+E:\Иванников КП ССПИ\Программа\ПО GSE Handler\WindowsFormsApplication1\bin\Debug\GSE Handler.exe.config
+E:\Иванников КП ССПИ\Программа\ПО GSE Handler\WindowsFormsApplication1\bin\Debug\GSE Handler.exe
+E:\Иванников КП ССПИ\Программа\ПО GSE Handler\WindowsFormsApplication1\bin\Debug\GSE Handler.pdb
+E:\Иванников КП ССПИ\Программа\ПО GSE Handler\WindowsFormsApplication1\obj\Debug\GSE Handler.exe
+E:\Иванников КП ССПИ\Программа\ПО GSE Handler\WindowsFormsApplication1\obj\Debug\GSE Handler.pdb
+C:\Users\USER\Desktop\Программа\GSE-Handler\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Программа\GSE-Handler\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\USER\Desktop\Программа\GSE-Handler\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\USER\Desktop\Программа\GSE-Handler\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Resurses.Resource1.resources
+C:\Users\USER\Desktop\Программа\GSE-Handler\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Программа\GSE-Handler\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Программа\GSE-Handler\WindowsFormsApplication1\obj\Debug\GSE Handler.exe
+C:\Users\USER\Desktop\Программа\GSE-Handler\WindowsFormsApplication1\obj\Debug\GSE Handler.pdb
+C:\Users\USER\Desktop\Программа\GSE-Handler\WindowsFormsApplication1\bin\Debug\GSE Handler.exe.config
+C:\Users\USER\Desktop\Программа\GSE-Handler\WindowsFormsApplication1\bin\Debug\GSE Handler.exe
+C:\Users\USER\Desktop\Программа\GSE-Handler\WindowsFormsApplication1\bin\Debug\GSE Handler.pdb

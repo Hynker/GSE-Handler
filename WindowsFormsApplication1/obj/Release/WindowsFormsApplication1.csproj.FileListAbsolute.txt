@@ -1,0 +1,22 @@
+C:\Users\USER\Desktop\Study4God\3 ССПИ\КП_ССПИ_ГОТОВАЯ\Вариативная часть ССПИ\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+C:\Users\USER\Desktop\Study4God\3 ССПИ\КП_ССПИ_ГОТОВАЯ\Вариативная часть ССПИ\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+C:\Users\USER\Desktop\Study4God\3 ССПИ\КП_ССПИ_ГОТОВАЯ\Вариативная часть ССПИ\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+C:\Users\USER\Desktop\Study4God\3 ССПИ\КП_ССПИ_ГОТОВАЯ\Вариативная часть ССПИ\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Study4God\3 ССПИ\КП_ССПИ_ГОТОВАЯ\Вариативная часть ССПИ\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\Study4God\3 ССПИ\КП_ССПИ_ГОТОВАЯ\Вариативная часть ССПИ\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\USER\Desktop\Study4God\3 ССПИ\КП_ССПИ_ГОТОВАЯ\Вариативная часть ССПИ\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\USER\Desktop\Study4God\3 ССПИ\КП_ССПИ_ГОТОВАЯ\Вариативная часть ССПИ\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Study4God\3 ССПИ\КП_ССПИ_ГОТОВАЯ\Вариативная часть ССПИ\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Study4God\3 ССПИ\КП_ССПИ_ГОТОВАЯ\Вариативная часть ССПИ\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+C:\Users\USER\Desktop\Study4God\3 ССПИ\КП_ССПИ_ГОТОВАЯ\Вариативная часть ССПИ\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
+C:\Users\USER\Desktop\Программа\GSE-Handler\WindowsFormsApplication1\bin\Release\GSE Handler.exe.config
+C:\Users\USER\Desktop\Программа\GSE-Handler\WindowsFormsApplication1\bin\Release\GSE Handler.exe
+C:\Users\USER\Desktop\Программа\GSE-Handler\WindowsFormsApplication1\bin\Release\GSE Handler.pdb
+C:\Users\USER\Desktop\Программа\GSE-Handler\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Программа\GSE-Handler\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\USER\Desktop\Программа\GSE-Handler\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\USER\Desktop\Программа\GSE-Handler\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Resurses.Resource1.resources
+C:\Users\USER\Desktop\Программа\GSE-Handler\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Программа\GSE-Handler\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Программа\GSE-Handler\WindowsFormsApplication1\obj\Release\GSE Handler.exe
+C:\Users\USER\Desktop\Программа\GSE-Handler\WindowsFormsApplication1\obj\Release\GSE Handler.pdb
